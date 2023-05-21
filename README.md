@@ -1,24 +1,14 @@
-<!-- ![Just...]() -->
-
-<div style="text-align: center;">
-  <a href="https://imgbb.com/">
-    <img src="https://i.ibb.co/pQthZr3/rin-tohsaka.gif" alt="rin-tohsaka" border="0" />
-  </a>
-</div>
+<!-- ![Just...]() --
 
 <div align='center'>
 
-<h2>🎐 Rin-Tohsaka 🎐 </h2>
+<h2>🎐 HIYORI MD 🎐 </h2>
   
 
 
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Toshi-san001/Rin-Tohsaka/fork">
-    <img src="https://img.shields.io/github/forks/Toshi-san001/Rin-Tohsaka?label=Fork&style=social">
-    
     
 
 <br>
